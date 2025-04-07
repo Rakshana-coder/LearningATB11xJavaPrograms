@@ -3,7 +3,7 @@ package ex_19_OOPS_Inheritence._Multilevel_Inheritence;
 public class Lab158_Multilevel_Inheritance {
     public static void main(String[] args) {
 
-        GrandFather gf = new GrandFather();
+        Grandfather gf = new Grandfather();
         gf.gf();
 
         System.out.println(" -- ");
